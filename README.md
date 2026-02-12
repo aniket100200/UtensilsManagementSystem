@@ -7,16 +7,6 @@
 
 > A comprehensive full-stack inventory tracking solution designed for commercial kitchens to streamline procurement, track usage, and prevent stock shortages.
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="images/utensile.png" alt="Dashboard Screenshot" width="800">
-</p>
-
----
-
 ## 📖 Overview
 
 The **Utensile Management System** is an enterprise-grade web application developed to solve the chaos of inventory management in high-volume culinary environments. It replaces manual spreadsheet tracking with a real-time, digital solution.
@@ -45,8 +35,8 @@ The system allows administrators to track utensil lifecycles, monitor stock leve
 * **Build Tool:** Maven
 
 ### Frontend
-* **Framework:** Next.js / React.js
-* **Styling:** Tailwind CSS
+* **Framework:** React.js
+* **Styling:** SCSS
 * **State Management:** Redux Toolkit / Context API
 * **HTTP Client:** Axios
 * **Icons:** React Icons / Lucide
